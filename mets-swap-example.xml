@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><mets ID="sort-mets_mets" OBJID="sword-mets" LABEL="DSpace SWORD Item" PROFILE="DSpace METS SIP Profile 1.0" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:epdcx="http://purl.org/eprint/epdcx/2006-11-16/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/">
+<metsHdr CREATEDATE="2016-03-31T08:01:02">
+<agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+<name>BioMed Central</name>
+</agent>
+</metsHdr>
+<dmdSec ID="sword-mets-dmd-1" GROUPID="sword-mets-dmd-1_group-1">
+<mdWrap LABEL="SWAP Metadata" MDTYPE="OTHER" OTHERMDTYPE="EPDCX" MIMETYPE="text/xml">
+<xmlData>
+<epdcx:descriptionSet xsi:schemaLocation="http://purl.org/eprint/epdcx/2006-11-16/ http://purl.org/eprint/epdcx/xsd/2006-11-16/epdcx.xsd">
+<epdcx:description epdcx:resourceId="sword-mets-epdcx-1">
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/type" epdcx:valueURI="http://purl.org/eprint/entityType/ScholarlyWork"/>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/title">
+<epdcx:valueString>Systematically probing the bottom-up synthesis of AuPAMAM conjugates for enhanced transfection efficiency</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/terms/abstract">
+<epdcx:valueString>
+              Abstract
+              
+                Background
+                Gold nanoparticles (AuNPs) have shown great promise as scaffolds for gene therapy vectors due to their attractive physiochemical properties which include biocompatibility, ease of functionalization via the nearly covalent gold-sulfur dative bond, and surface plasmon optical properties. Previously, we synthesized stable AuNP-polyamidoamine (AuPAMAM) conjugates and showed their success in vitro as non-viral gene delivery vectors.
+              
+              
+                Results
+                In this study, we systematically perturbed each component of the AuPAMAM conjugates and analyzed the resulting effect on transfection efficiency. Due to the modular, bottom-up nature of the AuPAMAM synthesis, we were able to probe each step of the fabrication process. The relationship between each conjugation parameter and the function of the final vector were investigated. More than fourfold enhanced transfection efficiency was achieved by modifying the PAMAM concentration, PAMAM core chemistry, PAMAM terminus chemistry, and self-assembled monolayer composition of the AuPAMAM conjugates.
+              
+              
+                Conclusions
+                This work suggest that AuPAMAM synthesis platform is a promising non-viral gene therapy approach and highlights the importance of inspecting the role of each individual constituent in all nanotechnology hybrid materials.
+              
+            </epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Figueroa, Elizabeth R</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Stephen Yan, J.</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Chamberlain-Simon, Nicolette K</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Lin, Adam Y</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Foster, Aaron E</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/creator">
+<epdcx:valueString>Drezek, Rebekah A</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/eprint/terms/isExpressedAs" epdcx:valueRef="sword-mets-expr-1"/>
+</epdcx:description>
+<epdcx:description epdcx:resourceId="sword-mets-expr-1">
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/type" epdcx:valueURI="http://purl.org/eprint/entityType/Expression"/>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/language" epdcx:vesURI="http://purl.org/dc/terms/RFC3066">
+<epdcx:valueString>en</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/type" epdcx:vesURI="http://purl.org/eprint/terms/Type" epdcx:valueURI="http://purl.org/eprint/type/JournalArticle"/>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/terms/available">
+<epdcx:valueString epdcx:sesURI="http://purl.org/dc/terms/W3CDTF">2016-03-31</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/eprint/terms/copyrightHolder">
+<epdcx:valueString>Figueroa et al.</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/publisher">
+<epdcx:valueString>BioMed Central</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/terms/accessRights" epdcx:vesURI="http://purl.org/eprint/terms/AccessRights" epdcx:valueURI="http://purl.org/eprint/accessRights/OpenAccess"/>
+<epdcx:statement epdcx:propertyURI="http://purl.org/eprint/terms/bibliographicCitation">
+<epdcx:valueString>Journal of Nanobiotechnology. 2016 Mar 31;14(1):24</epdcx:valueString>
+</epdcx:statement>
+<epdcx:statement epdcx:propertyURI="http://purl.org/dc/elements/1.1/identifier">
+<epdcx:valueString epdcx:sesURI="http://purl.org/dc/terms/URI">http://dx.doi.org/10.1186/s12951-016-0178-9</epdcx:valueString>
+</epdcx:statement>
+</epdcx:description>
+</epdcx:descriptionSet>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<fileSec>
+<fileGrp ID="sword-mets-fgrp-1" USE="CONTENT">
+<file GROUPID="sword-mets-fgid-0" ID="sword-mets-file-1" MIMETYPE="application/pdf">
+<FLocat LOCTYPE="URL" xlink:href="12951_2016_Article_178.pdf"/>
+</file>
+</fileGrp>
+</fileSec>
+<structMap ID="sword-mets-struct-1" LABEL="structure" TYPE="LOGICAL">
+<div ID="sword-mets-div-1" DMDID="sword-mets-dmd-1" TYPE="SWORD Object">
+<div ID="sword-mets-div-2" TYPE="File">
+<fptr FILEID="sword-mets-file-1"/>
+</div>
+</div>
+</structMap>
+</mets>
